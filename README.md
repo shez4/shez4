@@ -15,7 +15,7 @@ I’m excited to share my journey in the tech world with you. As a second-year s
 Some of my favourite projects—click to explore!
 
 1. **Carlton**  
-   *[Short Description of Project]*  
+   *A website that sells watches*  
    [View Project](https://shez4.github.io/carlton/)
 
 ---
@@ -25,24 +25,23 @@ Here’s what I bring to the table:
 
 | Category         | Skills                       |
 |------------------|------------------------------|
-| **Programming**  | [C#, Python, HTML,CSS, Java]  |
-| **Frameworks**   | [.NET, .NET MAUI]   |
-| **Tools**        | [Object Oriented Programing, Responsive Design]     |
-| **Techniques**   | [Technique 1, Technique 2]   |
+| **Programming**  | C#, Python, HTML,CSS, Java  |
+| **Frameworks**   | .NET, .NET MAUI   |
 | **Tools**        | Visual Studio, GitHub, VS Code, Figma       |
+| **Techniques**   | Object Oriented Programing, Responsive Design   |
+
 ---
 
 ## 🌱 Interests
-- 📚 Lifelong learner of [Topics you're interested in, e.g., AI, cloud computing]
-- 🎮 Gaming and [Hobbies, e.g., working out, photography]
-- 🌐 Passionate about [Field you enjoy, e.g., tech in education, mobile apps]
+- 🎮 Gaming, Building PC's and photography.
+- 🌐 Passionate about Building PCs and working on websites and maybe trying to get into some game development.
 
 ---
 
 ## 🤝 Connect with Me
 I’d love to connect with fellow tech enthusiasts!  
-- **LinkedIn**: [LinkedIn Profile](#)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shanal-rathnaweera-7584b1285/)
+- **Email**: shanalhr963@gmail.com(mailto:your-email@example.com)
 
 ---
 
