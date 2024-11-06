@@ -41,7 +41,7 @@ Here’s what I bring to the table:
 ## 🤝 Connect with Me
 I’d love to connect with fellow tech enthusiasts!  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shanal-rathnaweera-7584b1285/)
-- **Email**: shanalhr963@gmail.com(mailto:your-email@example.com)
+- **Email**: shanalhr963@gmail.com
 
 ---
 
