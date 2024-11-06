@@ -1,31 +1,22 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Shanal
 
-I’m excited to share my journey in the tech world with you. As a [Your Year] student pursuing a **[Your Degree]** at [Your Institution], I'm diving into [your focus areas, e.g., web development, data structures]. I love learning, building, and contributing to projects that sharpen my skills and add value to others. Check out more about me below!
+I’m excited to share my journey in the tech world with you. As a second-year student pursuing an IT bachelor's degree, I'm diving into, Software development. I love learning, building, and contributing to projects that sharpen my skills and add value to others. Check out more about me below!
 
 ---
 
 ## 🌟 Snapshot
-- 🎓 **Education**: Pursuing [Your Degree] at [Your Institution]
-- 🛠️ **Tech Stack**: Focused on [Your Key Technologies]
-- 🚀 **Learning Goals**: Exploring [Your Current Learning Focus, e.g., web frameworks, cloud technologies]
+- 🎓 **Education**: Pursuing an IT bachelor's degree
+- 🚀 **Learning Goals**: Exploring web development and mobile development
 - 🌍 **Career Aspiration**: To [Your Career Goal, e.g., develop user-focused web applications, lead tech projects]
 
 ---
 
 ## 📂 Featured Projects
-Some of my favorite projects—click to explore!
+Some of my favourite projects—click to explore!
 
-1. **[Project Name 1]**  
+1. **Carlton**  
    *[Short Description of Project]*  
-   [View Project](#)
-
-2. **[Project Name 2]**  
-   *[Short Description of Project]*  
-   [View Project](#)
-
-3. **[Project Name 3]**  
-   *[Short Description of Project]*  
-   [View Project](#)
+   [View Project](https://shez4.github.io/carlton/)
 
 ---
 
@@ -34,11 +25,11 @@ Here’s what I bring to the table:
 
 | Category         | Skills                       |
 |------------------|------------------------------|
-| **Programming**  | [Skill 1, Skill 2, Skill 3]  |
-| **Frameworks**   | [Framework 1, Framework 2]   |
-| **Tools**        | [Tool 1, Tool 2, Tool 3]     |
+| **Programming**  | [C#, Python, HTML,CSS, Java]  |
+| **Frameworks**   | [.NET, .NET MAUI]   |
+| **Tools**        | [Object Oriented Programing, Responsive Design]     |
 | **Techniques**   | [Technique 1, Technique 2]   |
-
+| **Tools**        | Visual Studio, GitHub, VS Code, Figma       |
 ---
 
 ## 🌱 Interests
