@@ -18,6 +18,10 @@ Some of my favourite projects—click to explore!
    *A website that sells watches*  
    [View Project](https://shez4.github.io/carlton/)
 
+2. **Snake Blockade**  
+   *The classic nokia snake game*  
+   [View Project](https://github.com/shez4/Snake.git)
+
 ---
 
 ## 🛠 Skills & Tools
