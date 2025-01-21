@@ -7,7 +7,7 @@ I’m excited to share my journey in the tech world with you. As a second-year s
 ## 🌟 Snapshot
 - 🎓 **Education**: Pursuing an IT bachelor's degree
 - 🚀 **Learning Goals**: Exploring web development and mobile development
-- 🌍 **Career Aspiration**: To [Your Career Goal, e.g., develop user-focused web applications, lead tech projects]
+- 🌍 **Career Aspiration**: To work in Cyber Security
 
 ---
 
@@ -31,14 +31,14 @@ Here’s what I bring to the table:
 |------------------|------------------------------|
 | **Programming**  | C#, Python, HTML,CSS, Java  |
 | **Frameworks**   | .NET, .NET MAUI   |
-| **Tools**        | Visual Studio, GitHub, VS Code, Figma       |
+| **Tools**        | Visual Studio, GitHub, VS Code, Figma, Zendesk, Active Directory      |
 | **Techniques**   | Object Oriented Programing, Responsive Design   |
 
 ---
 
 ## 🌱 Interests
 - 🎮 Gaming, Building PC's and photography.
-- 🌐 Passionate about Building PCs and working on websites and maybe trying to get into some game development.
+- 🌐 Passionate about Building PCs, Servers and working on websites and maybe trying to get into some game development.
 
 ---
 
@@ -49,4 +49,4 @@ I’d love to connect with fellow tech enthusiasts!
 
 ---
 
-Thank you for visiting! 😊 Looking forward to connecting or collaborating!
+Thank you for visiting!  Looking forward to connecting or collaborating!
