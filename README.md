@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Shanal
 
-I’m excited to share my journey in the tech world with you. As a second-year student pursuing an IT bachelor's degree, I'm diving into, Software development. I love learning, building, and contributing to projects that sharpen my skills and add value to others. Check out more about me below!
+I’m excited to share my journey in the tech world with you. As a third-year student pursuing an IT bachelor's degree, I'm diving into, Software development. I love learning, building, and contributing to projects that sharpen my skills and add value to others. Check out more about me below!
 
 ---
 
