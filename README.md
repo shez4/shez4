@@ -7,7 +7,7 @@ I’m excited to share my journey in the tech world with you. As a third-year st
 ## 🌟 Snapshot
 - 🎓 **Education**: Pursuing an IT bachelor's degree
 - 🚀 **Learning Goals**: Exploring web development and mobile development
-- 🌍 **Career Aspiration**: To work in Cyber Security
+- 🌍 **Career Aspiration**: To work in AI development
 
 ---
 
