@@ -12,7 +12,7 @@ I’m excited to share my journey in the tech world with you. As a third-year st
 ---
 
 ## 📂 Featured Projects
-Some of my favourite projects—click to explore!
+Some of my favourite projects
 
 1. **Carlton**  
    *A website that sells watches*  
