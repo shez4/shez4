@@ -16,7 +16,7 @@ Some of my favourite projects
 
 1. **Portfolio**  
    *My Porfolio*  
-   [View Project]([https://shez4.github.io/carlton/](https://portfolio-kappa-blond-ais0udss6p.vercel.app))
+   [View Project](https://portfolio-kappa-blond-ais0udss6p.vercel.app)
 
 1. **Carlton**  
    *A website that sells watches*  
