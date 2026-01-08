@@ -14,6 +14,10 @@ I’m excited to share my journey in the tech world with you. As a third-year st
 ## 📂 Featured Projects
 Some of my favourite projects
 
+1. **Portfolio**  
+   *My Porfolio*  
+   [View Project]([https://shez4.github.io/carlton/](https://portfolio-kappa-blond-ais0udss6p.vercel.app))
+
 1. **Carlton**  
    *A website that sells watches*  
    [View Project](https://shez4.github.io/carlton/)
